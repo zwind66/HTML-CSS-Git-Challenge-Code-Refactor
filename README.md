@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 
 The following image demonstrates the web application's appearance and functionality:
 
-![A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.." ](./Develop/assets/images/01-html-css-git-homework-demo.png)
+![A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.." ](./assets/images/01-html-css-git-homework-demo.png)
 
 ## How to Complete the Challenge
 
