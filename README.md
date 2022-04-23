@@ -1,4 +1,4 @@
-# Code Refa# 01 HTML, CSS, and Git: Code Refactor
+# Shuai's Assignment 1: Code Refactor For Horiseon Website
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities and/or socio-economic restrictions have access to their website. Accessible websites are better optimized for search engines, and help companies avoid litigation.
 
@@ -33,6 +33,13 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+- - -
+# 💡💡💡Finished work
+* [The Link of the deployed application.]( https://zwind66.github.io/HTML-CSS-Git-Challenge-Code-Refactor/)
+
+
+* [The Link of the GitHub repository.]( https://github.com/zwind66/HTML-CSS-Git-Challenge-Code-Refactor.git)
+
 ## Assets
 
 The following image demonstrates the web application's appearance and functionality:
