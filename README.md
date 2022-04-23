@@ -35,10 +35,10 @@ THEN I find a concise, descriptive title
 ```
 - - -
 # 💡💡💡Finished work
-* [The Link of the deployed application.]( https://zwind66.github.io/HTML-CSS-Git-Challenge-Code-Refactor/)
+* [The Link of the deployed application.]( https://zwind66.github.io/Shuai-s-Assignment-1/)
 
 
-* [The Link of the GitHub repository.]( https://github.com/zwind66/HTML-CSS-Git-Challenge-Code-Refactor.git)
+* [The Link of the GitHub repository.]( https://github.com/zwind66/Shuai-s-Assignment-1.git)
 
 ## Assets
 
